@@ -12,5 +12,5 @@ function test(e){
     console.log("hello");
     document.querySelector("#one").classList.add("hidden");
     document.querySelector("#two").classList.remove("hidden");
-    document.querySelector(".rating").innerHTML = "You selected " + userRating + " out of 5";
+    document.querySelector(".rating").innerHTML = "You selected " + userRating + " out of  5";
 }
