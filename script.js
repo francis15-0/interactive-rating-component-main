@@ -1,6 +1,6 @@
 let userRating = 0; 
 const button = document.querySelectorAll(".btn");
-for(let i = 0; i <= button.length; i++){
+for(let i = 0; i < button.length; i++){
     button[i].addEventListener("click", function(){
         this.classList.toggle("clicked");
     userRating = this.innerHTML
