@@ -2,6 +2,8 @@
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
+ https://francis15-0.github.io/interactive-rating-component-main/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
